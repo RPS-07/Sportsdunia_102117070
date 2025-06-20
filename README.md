@@ -41,9 +41,7 @@ The **Sports Dunia Dashboard** is a responsive web application that provides ana
 - **Framework:** Next.js 14 (App Router)
 - **Styling:** Tailwind CSS
 - **Authentication:** NextAuth.js
-- **Database:** Not explicitly included (likely uses external API for data)
 - **State Management:** Context API or hooks
-- **Charting:** Likely uses `recharts` or similar (verify in code)
 
 ---
 
@@ -129,6 +127,3 @@ MIT
 
 ---
 
-## Contact
-
-For queries or contributions, reach out at [your-email@example.com].
